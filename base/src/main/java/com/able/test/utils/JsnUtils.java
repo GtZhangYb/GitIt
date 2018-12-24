@@ -9,11 +9,12 @@ public class JsnUtils {
         tsb.append("{\"one\":\"1\",\"two\":\"2\",\"three\":\"3\"}");
         JSONObject js = JSONObject.parseObject(tsb.toString());
         System.out.println(1234567);
+
         System.out.println(js);
     }
 
     public static String objToJson(){
-
+        System.out.println(123456);
         return null;
     }
 }
