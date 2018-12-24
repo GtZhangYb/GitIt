@@ -16,7 +16,7 @@ public class JsnUtils {
 
     public static String objToJson(){
 
-        // this is a method to get JSON String
+        // This is the method for get JSON String
         return null;
     }
 }
